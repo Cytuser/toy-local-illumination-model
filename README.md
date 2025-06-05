@@ -115,3 +115,13 @@ scene-2.txt 是半透明物体
 格式很简单，一看就明白
 
 
+
+## Python Implementation
+
+A simple Python version using PyOpenGL and glfw is provided in the `python` directory.
+
+```sh
+pip install -r requirements.txt
+python3 python/main.py
+```
+
